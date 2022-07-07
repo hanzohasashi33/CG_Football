@@ -1,4 +1,4 @@
-# Three.js - Template - Simple
+# Procedural Animation of a Football Game
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
